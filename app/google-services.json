@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006431991962",
+    "firebase_url": "https://foodorder-a4347.firebaseio.com",
+    "project_id": "foodorder-a4347",
+    "storage_bucket": "foodorder-a4347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006431991962:android:d551959a8cc9ab9f3b8723",
+        "android_client_info": {
+          "package_name": "com.kwesiwelbred.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006431991962-ihjc5fti1uvmhv23vghff0d950mfdf6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kwesiwelbred.foodorder",
+            "certificate_hash": "9ce1e4d9819253405d7be4be973b03ec63905a8f"
+          }
+        },
+        {
+          "client_id": "1006431991962-lt275rcr2kasci1867064252t7hq52ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8nGWbPw6CL-9pDpawUepPy87-r8Mp2rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006431991962-lt275rcr2kasci1867064252t7hq52ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
